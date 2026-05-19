@@ -180,10 +180,6 @@ LoginAndRes/
 - ✅ SQL注入防护（使用PreparedStatement）
 - ✅ 表单验证（前端+后端双重验证）
 
-## License
-
-MIT License
-
 ## 作者
 
 LNUT Task01 Team
