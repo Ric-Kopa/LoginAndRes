@@ -84,7 +84,7 @@
                             <td>${admin.nickname}</td>
                             <td>${admin.createTime}</td>
                             <td>
-                                <button class="btn-delete" onclick="deleteAdmin(${admin.id})">删除</button>
+                                <button class="btn-delete" onclick="deleteAdmin('${admin.id}')">删除</button>
                             </td>
                         </tr>
                     </c:forEach>
